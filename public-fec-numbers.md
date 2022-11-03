@@ -9,6 +9,8 @@
 - 
 - 
 
+<br>
+
 ### The analysis
 
 Replication:
@@ -24,6 +26,7 @@ Replication:
 `Total savings increased`
 - 
 
+<br>
 
 ### Cognos
 
