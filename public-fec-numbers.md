@@ -33,10 +33,10 @@ Replication:
     - *Data* from **COGNOS** report--"// name here"
     - Extract as Excel
 
-> *Analysis* 
-    - Download data as Excel file from COGNOS
-    - Open Excel file
-    - Apply function  
+> *Analysis*   
+    - Download data as Excel file from COGNOS  
+    - Open Excel file  
+    - Apply function    
         - function: retains those...; excludes those making
 
 `Total savings increased`
