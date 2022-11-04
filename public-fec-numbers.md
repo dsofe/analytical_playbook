@@ -20,20 +20,26 @@
 
 <br>
 
-### The analysis
+### The analysis (replication)
 
-Replication:
-
-#### **Total number of FEC clients** and **Total number of sessions** 
-- **Total number of FEC clients** and **Total number of sessions** 
+**Total number of FEC clients**, and   
+**Total number of sessions**
   - *Final estimates* from **COGNOS** report--`data01 > Sessions report (New)`
-  - <u>same</u> report
+  - <ins>same</ins> report  
   - no additional analysis required (i.e., copy + paste)
 
+<br>  
 
+<ins>Steps</ins>  
+`Sessions report (New)`    
+- `Date (of Interaction)`  
+- `Date of Enrollment`  
 
+<hr>
 
-- **Total debt decreased**
+<br>
+
+**Total debt decreased**
   - *Data* from **COGNOS** report--`data01 > All Programs Cumulative Debt Reduction Report - 2020 Corrected`
   - Extract as Excel
 
@@ -43,7 +49,11 @@ Replication:
   - Apply function    
     - function: retains those...; excludes those making
 
-- **Total savings increased**
+<hr>
+
+<br>
+
+**Total savings increased**
   - *Data* from **COGNOS** report--`data01 > All Programs Cumulative Savings Increased Report - 2020 Corrected`
   - 
 
@@ -53,13 +63,12 @@ Replication:
   - Apply function
     - function: retains those...; excludes those making
 
+<hr>
+
 <br>
 
 ### Cognos
 
 > [link](http://mspwvw-dcacbi01.dca.nycnet/cognos11x/bi/)
 
-`data01 > Sessions report (New)`
-- `Date (of Interaction)`
-- `Date of Enrollment`
 
