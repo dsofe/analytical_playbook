@@ -2,7 +2,9 @@
 
 # Request: "NYC FEC Numbers" (or, "Public FEC Numbers")
 
-### Data requested
+<br>
+
+## Data requested
 
 - **Total number of FEC clients**
 >
@@ -20,7 +22,7 @@
 
 <br>
 
-### The analysis (replication)
+## The analysis (replication)
 
 **Total number of FEC clients**, and   
 **Total number of sessions**
@@ -31,14 +33,11 @@
 <br>  
 
 <ins>Steps</ins>  
-
 `Sessions report (New)`    
 - `Date (of Interaction)`  
 - `Date of Enrollment`  
 
 <hr>
-
-<br>
 
 **Total debt decreased**
   - *Data* from **COGNOS** report--`data01 > All Programs Cumulative Debt Reduction Report - 2020 Corrected`
@@ -58,8 +57,6 @@
 - `Date of Enrollment`  
 
 <hr>
-
-<br>
 
 **Total savings increased**
   - *Data* from **COGNOS** report--`data01 > All Programs Cumulative Savings Increased Report - 2020 Corrected`
@@ -81,7 +78,7 @@
 
 <br>
 
-### Cognos
+## Cognos
 
 > [link](http://mspwvw-dcacbi01.dca.nycnet/cognos11x/bi/)
 
