@@ -12,11 +12,11 @@
 
 - **Total debt decreased**
 > - This is calculated as the sum, among only the clients who increased their savings balances, of the total decrease in debt (i.e., amount in dollars) for every client, where the increase is the difference between a client's most recent and earliest recorded savings balances in FEMS.
-> - Through this method, the outcome reflects a client's net debt across their entire time being served by NYC FEC.
+> - Through this method, the outcome reflects the net change in debt for a client across their entire time being served by NYC FEC.
 
 - **Total savings increased**
 > - This is calculated as the sum, among only the clients who increased their savings balances, of the total increase in savings (i.e., amount in dollars) for every client, where the increase is the difference between a client's most recent and earliest recorded savings balances in FEMS.
-> - Through this method, the outcome reflects a client's net savings across their entire time being served by NYC FEC.
+> - Through this method, the outcome reflects the net change in savings for a client across their entire time being served by NYC FEC.
 
 <br>
 
@@ -52,6 +52,8 @@ Replication:
 <br>
 
 ### Cognos
+
+> [link](http://mspwvw-dcacbi01.dca.nycnet/cognos11x/bi/)
 
 - `Date (of Interaction)`
 
