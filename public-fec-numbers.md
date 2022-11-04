@@ -56,14 +56,13 @@
 
 <ins>Steps</ins>  
 `All Programs Cumulative Debt Reduction Report - 2020 Corrected`    
-- `Date (of Interaction)`  
-- `Date of Enrollment`  
+- `Date (of Interaction)`   
 
 <hr>
 
 **Total savings increased**
   - *Data* from **COGNOS** report--`data01 > All Programs Cumulative Savings Increased Report - 2020 Corrected`
-  - 
+  - Extract as Excel
 
 > *Analysis*  
   - Download data as Excel file from COGNOS
@@ -75,8 +74,7 @@
 
 <ins>Steps</ins>  
 `All Programs Cumulative Savings Increased Report - 2020 Corrected`    
-- `Date (of Interaction)`  
-- `Date of Enrollment`  
+- `Date (of Interaction)`    
 
 
 <br>
