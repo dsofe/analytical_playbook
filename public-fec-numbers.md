@@ -25,12 +25,12 @@
 Replication:
 
 - **Total number of FEC clients** and **Total number of sessions** 
-  - *Final estimates* from **COGNOS** report--`Sessions report (New)`
+  - *Final estimates* from **COGNOS** report--`data01 > Sessions report (New)`
   - <u>same</u> report
   - no additional analysis required (i.e., copy + paste)
 
 - **Total debt decreased**
-  - *Data* from **COGNOS** report--"// name here"
+  - *Data* from **COGNOS** report--`data01 > All Programs Cumulative Savings Increquest01
   - Extract as Excel
 
 > *Analysis*   
