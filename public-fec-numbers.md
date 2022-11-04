@@ -31,6 +31,7 @@
 <br>  
 
 <ins>Steps</ins>  
+
 `Sessions report (New)`    
 - `Date (of Interaction)`  
 - `Date of Enrollment`  
@@ -49,6 +50,13 @@
   - Apply function    
     - function: retains those...; excludes those making
 
+<br>
+
+<ins>Steps</ins>  
+`All Programs Cumulative Debt Reduction Report - 2020 Corrected`    
+- `Date (of Interaction)`  
+- `Date of Enrollment`  
+
 <hr>
 
 <br>
@@ -64,6 +72,12 @@
     - function: retains those...; excludes those making
 
 <hr>
+
+<ins>Steps</ins>  
+`All Programs Cumulative Savings Increased Report - 2020 Corrected`    
+- `Date (of Interaction)`  
+- `Date of Enrollment`  
+
 
 <br>
 
