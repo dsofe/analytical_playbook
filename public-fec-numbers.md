@@ -33,9 +33,12 @@
 <br>  
 
 <ins>Steps</ins>  
-`Sessions report (New)`    
-- `Date (of Interaction)`  
-- `Date of Enrollment`  
+`Sessions report (New)`  
+- `Program`:
+- `Provider`:
+- `Date (of Interaction)`:
+- `Length`: 
+- `Enrollment date`:  
 
 <hr>
 
