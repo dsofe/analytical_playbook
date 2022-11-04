@@ -24,12 +24,12 @@
 
 Replication:
 
-- `Total FEC clients` and `Total sessions` 
-  - *Final estimates* from **COGNOS** report--"// name here"
+- **Total number of FEC clients** and **Total number of sessions** 
+  - *Final estimates* from **COGNOS** report--`Sessions report (New)`
   - <u>same</u> report
   - no additional analysis required (i.e., copy + paste)
 
-- `Total debt decreased`
+- **Total debt decreased**
   - *Data* from **COGNOS** report--"// name here"
   - Extract as Excel
 
@@ -39,9 +39,9 @@ Replication:
   - Apply function    
     - function: retains those...; excludes those making
 
-`Total savings increased`
-- *Data* from **COGNOS** report--"// name here"
-- 
+- **Total savings increased**
+  - *Data* from **COGNOS** report--"// name here"
+  - 
 
 > *Analysis*  
   - Download data as Excel file from COGNOS
